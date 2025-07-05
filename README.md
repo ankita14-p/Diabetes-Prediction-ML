@@ -15,8 +15,8 @@ This machine learning project predicts whether a patient is diabetic based on me
   - **Accuracy score**
   - **Confusion matrix**
 - ✅ Achieved:
-  - 🎯 **Training Accuracy:** 78%
-  - 📈 **Testing Accuracy:** 81%
+  - 🎯 **Training Accuracy:** 75%
+  - 📈 **Testing Accuracy:** 76%
 
 ---
 
@@ -34,10 +34,10 @@ This machine learning project predicts whether a patient is diabetic based on me
 
 ### 📘 Confusion Matrix:
 
-- **True Negatives (TN):** 25 — Non-diabetic correctly classified  
-- **False Positives (FP):** 8 — Non-diabetic misclassified as diabetic  
-- **False Negatives (FN):** 2 — Diabetic misclassified as non-diabetic  
-- **True Positives (TP):** 19 — Diabetic correctly classified  
+- **True Negatives (TN):** 45 — Non-diabetic correctly classified  
+- **False Positives (FP):** 9 — Non-diabetic misclassified as diabetic  
+- **False Negatives (FN):** 15— Diabetic misclassified as non-diabetic  
+- **True Positives (TP):** 38 — Diabetic correctly classified  
 
 ---
 
