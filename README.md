@@ -6,7 +6,7 @@ This machine learning project predicts whether a patient is diabetic based on me
 
 ## ✅ Project Highlights
 
-- ✅ Checked for null values
+- ✅ Checked for missing values
 - ✅ Balanced the dataset using **undersampling**
 - ✅ Standardized features using `StandardScaler`
 - ✅ Performed **train-test split**
