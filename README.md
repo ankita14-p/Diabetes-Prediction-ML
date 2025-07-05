@@ -36,7 +36,7 @@ This machine learning project predicts whether a patient is diabetic based on me
 
 - **True Negatives (TN):** 45 — Non-diabetic correctly classified  
 - **False Positives (FP):** 9 — Non-diabetic misclassified as diabetic  
-- **False Negatives (FN):** 15— Diabetic misclassified as non-diabetic  
+- **False Negatives (FN):** 16— Diabetic misclassified as non-diabetic  
 - **True Positives (TP):** 38 — Diabetic correctly classified  
 
 ---
